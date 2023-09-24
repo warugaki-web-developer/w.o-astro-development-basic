@@ -2,6 +2,10 @@
   "name": "w.o-astro-development-basic",
   "type": "module",
   "version": "0.0.1",
+  "engines": {
+    "node": "18.18.0",
+    "npm": "9.8.1"
+  },
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
