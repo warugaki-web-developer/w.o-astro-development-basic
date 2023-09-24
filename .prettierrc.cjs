@@ -4,6 +4,7 @@ module.exports = {
   printWidth: 120,
   semi: true,
   singleQuote: true,
+  singleAttributePerLine: true,
   tabWidth: 2,
   useTabs: false,
   plugins: ['prettier-plugin-astro'],
